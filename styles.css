@@ -1,0 +1,62 @@
+body{
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
+    background: #2C2B3D
+    
+
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+ul{
+    font-family: "JetBrains Mono", monospace;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 64px;
+    padding: 71px;
+}
+
+h1{
+    font-weight: normal;
+    display: flex;
+    align-items: center;
+   
+}
+
+ span{
+    color: #00BFA6;
+    font-weight: bold;
+}
+
+p1 span{
+    color: #c2c2c2;
+    font-weight: bold;
+
+}
+
+p2 span{
+    color:#00BFA6;
+    font-weight: bold;
+}
+
+
+main{
+    display: flex;
+    align-items: center;
+    margin-top: 101px;
+    justify-content: space-evenly;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 157px;
+    
+    
+}
